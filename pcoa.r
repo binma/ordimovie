@@ -24,3 +24,5 @@ im.convert(paste("pcoah",formatC(1:360,digits=1,flag="0"),".png",sep="") ,"poca.
 ani.options(oopt)
 setwd(owd)
 }
+
+# require animation
